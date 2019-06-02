@@ -14,7 +14,7 @@ Share links to some practical websites
 
 | 效果名               | 预览                                                                                                      | 源码                                                                                                                   |
 | -------------------- | --------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| website页               | [index.html](https://bothins.github.io/practical_website/index.html)                                 | [Login.html](https://github.com/Bothins/practical_website/blob/master/index.html)                                 |
-| showHideLi               | [showHideLi.html](https://bothins.github.io/practical_website/html/showHideLi.html)                                 | [Login.html](https://github.com/Bothins/practical_website/blob/master//html/showHideLi.html)                                 |
-| flower               | [flower.html](https://bothins.github.io/practical_website/html/flower.html)                                 | [Login.html](https://github.com/Bothins/practical_website/blob/master//html/flower.html)                                 |
+| website页               | [index.html](https://bothins.github.io/practical_website/index.html)                                 | [index.html](https://github.com/Bothins/practical_website/blob/master/index.html)                                 |
+| showHideLi               | [showHideLi.html](https://bothins.github.io/practical_website/html/showHideLi.html)                                 | [showHideLi.html](https://github.com/Bothins/practical_website/blob/master//html/showHideLi.html)                                 |
+| flower               | [flower.html](https://bothins.github.io/practical_website/html/flower.html)                                 | [flower.html](https://github.com/Bothins/practical_website/blob/master//html/flower.html)                                 |
 
